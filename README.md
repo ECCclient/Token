@@ -23,7 +23,7 @@ This repository contains a Discord token grabber designed to help you learn abou
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
 **GNU General Public License v3.0 (GPL-3.0)**
 
