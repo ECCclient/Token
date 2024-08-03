@@ -9,6 +9,9 @@ This repository contains a Discord token grabber designed to help you learn abou
 
 # Requirments
 - A Windows PC
+- Python
+- Pyinstaller
+- pip on the latest version
 - Discord Server (you have to be the owner/admin of the server)
 
 ## Usage
