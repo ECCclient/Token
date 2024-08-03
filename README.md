@@ -63,8 +63,8 @@ __**Other educational hacking tools:**__
 - GDI virus
 - VBS overload
 
- __**Contact us**__
- - Discord: silverey_7
+ __**Contact us:**__
+ - Discord: `silverey_7`
 
   
     
