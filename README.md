@@ -1,7 +1,7 @@
 # Discord Token + Google Password grabber
 
 
-**Disclaimer:** This tool is intended solely for educational purposes. Use it responsibly to understand how token grabbers work and to improve defenses against such threats.
+<span style="color:red">**Disclaimer:** This tool is intended solely for educational purposes. Use it responsibly to understand how token grabbers work and to improve defenses against such threats.</span>
 
 ## Overview
 
