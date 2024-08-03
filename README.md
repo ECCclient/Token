@@ -51,6 +51,24 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
   source code and the copyright notice must be preserved.
 - You may not sell the code or use it for commercial purposes.
 
+# Help
+For help or other educational hacking tool, contact us via Discord.
+
+__**Other educational hacking tools:**__
+- Ransomware
+- DDoS
+- Bruteforce
+- phisher
+- BSOD
+- GDI virus
+- VBS overload
+
+ __**Contact us**__
+ - Discord: silverey_7
+
+  
+    
+
 
 
 
